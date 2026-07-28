@@ -1,0 +1,23 @@
+README.md
+  s_0e7d48531906c3::t_1388834d8dc7b9 22-23
+  s_0e7d48531906c3::t_9475aa15c7cd24 52
+  s_0e7d48531906c3::t_c389d8b388c66f 67
+docs/PRD.md
+  s_0e7d48531906c3::t_1eba681fec3f8f 1-241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.38-trip",
+  "base_commit_sha": "b9cb921809473fb7f8ac837763bfd57c50ee6f6e",
+  "prompts": {},
+  "sessions": {
+    "s_0e7d48531906c3": {
+      "agent_id": {
+        "tool": "kiro-cli",
+        "id": "2c541f59-b0d3-48b2-8c7b-4fb1e6ced148",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "song_y <song_y@trip.com>"
+    }
+  }
+}
