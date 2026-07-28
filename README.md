@@ -19,8 +19,8 @@
 - 用户学习进度追踪
 - 自适应复习策略
 
-### 前端（Flutter）
-- 跨平台移动应用
+### 前端（Swift / SwiftUI）
+- 苹果原生应用（一期：macOS、iOS，并适配 iPad）
 - 资料上传与管理
 - 智能出题与答题
 - 学习统计与反馈
@@ -49,7 +49,7 @@
 ## 技术栈
 
 - **后端**: Java, Spring Boot, AI/LLM 集成
-- **前端**: Flutter, Dart
+- **前端**: Swift, SwiftUI（iOS / iPadOS / macOS 一套代码）
 - **数据库**: MySQL / PostgreSQL
 - **部署**: Docker, Kubernetes（可选）
 
@@ -64,8 +64,7 @@ mvn spring-boot:run
 ### 前端
 ```bash
 cd app
-flutter pub get
-flutter run
+open DailyReflection.xcodeproj   # 使用 Xcode 打开并运行（选择 iOS / iPad / macOS 目标）
 ```
 
 ## 项目状态
