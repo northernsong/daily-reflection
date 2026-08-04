@@ -1,0 +1,25 @@
+.gitignore
+  s_38bb6d704e8737::t_96e61901e270f0 28-30
+docs/superpowers/specs/2026-07-31-daily-reflection-architecture-design.md
+  s_38bb6d704e8737::t_266ea9a7ee4dec 1-293,297-502,505-535,539-586,592-790
+  s_38bb6d704e8737::t_30e2df547ea6f2 503-504
+  s_38bb6d704e8737::t_e58dea264254ab 536-538
+  s_38bb6d704e8737::t_6fcad15ff5d28a 587-591
+  s_38bb6d704e8737::t_b96c604e5d65fc 294-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "4497efec2d620d3c8e027222b400d6507c366a6f",
+  "prompts": {},
+  "sessions": {
+    "s_38bb6d704e8737": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "48ab9dfb-528f-4adb-9e82-b6cf83ba9245",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "song_y <song_y@trip.com>"
+    }
+  }
+}
